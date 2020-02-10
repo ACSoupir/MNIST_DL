@@ -879,7 +879,7 @@ len(X_batch)
 
 
 
-To save time, I only have this notebook running 10 epochs but the final submission that I made used 500 (DEFINITELY hit the ceiling on diminishing returns but YOLO). This final one received a score of **0.99542** when submitted on kaggle, which is better than the previous submissions which were around **0.99071** to **0.99328**.
+To save time, I only have this notebook running 10 epochs but the final submission that I made used 500 (DEFINITELY hit the ceiling on diminishing returns but YOLO). This final one received a score of **0.99542** when submitted on kaggle, which is better than the previous submissions which were around **0.99071** to **0.99328**. This output, however, only scores **0.99342**. 
 
 
 ```python
